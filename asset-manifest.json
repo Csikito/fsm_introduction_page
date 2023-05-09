@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/fsm_introduction_page/static/css/main.4213b82f.css",
+    "main.js": "/fsm_introduction_page/static/js/main.7f6fccf1.js",
+    "static/media/aboutImg.png": "/fsm_introduction_page/static/media/aboutImg.a6f62d0573c86f6437ba.png",
+    "static/media/csikito-trans.PNG": "/fsm_introduction_page/static/media/csikito-trans.55e70cabf0b482e4c798.PNG",
+    "static/media/basketball.png": "/fsm_introduction_page/static/media/basketball.14fd10f5c8723c2df6da.png",
+    "static/media/csikito-food-bar.PNG": "/fsm_introduction_page/static/media/csikito-food-bar.4497b245cdf8d1ccd563.PNG",
+    "static/media/contactImg.jpg": "/fsm_introduction_page/static/media/contactImg.8305258a263d456d5c96.jpg",
+    "static/media/cooking.png": "/fsm_introduction_page/static/media/cooking.2a4333f1f306c73fa3a5.png",
+    "static/media/hiiking.png": "/fsm_introduction_page/static/media/hiiking.a8361b1da6486c820b01.png",
+    "static/media/randomUser.PNG": "/fsm_introduction_page/static/media/randomUser.f58a0d8657a1f3743d20.PNG",
+    "static/media/CSR2.png": "/fsm_introduction_page/static/media/CSR2.904f43550453a0fe72ee.png",
+    "static/media/CSR1.png": "/fsm_introduction_page/static/media/CSR1.0f2cef508130c0fed42f.png",
+    "static/media/technology.png": "/fsm_introduction_page/static/media/technology.eb0a9258b62307750628.png",
+    "static/media/flashcard.PNG": "/fsm_introduction_page/static/media/flashcard.59065200be7615bbc309.PNG",
+    "static/media/tic-tac-toe.PNG": "/fsm_introduction_page/static/media/tic-tac-toe.5b629a8455041eaeff89.PNG",
+    "index.html": "/fsm_introduction_page/index.html",
+    "main.4213b82f.css.map": "/fsm_introduction_page/static/css/main.4213b82f.css.map",
+    "main.7f6fccf1.js.map": "/fsm_introduction_page/static/js/main.7f6fccf1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4213b82f.css",
+    "static/js/main.7f6fccf1.js"
+  ]
+}
