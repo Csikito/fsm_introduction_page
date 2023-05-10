@@ -39,7 +39,7 @@ const Hun = {
   },
   projects: {
     title: "Projectek",
-    subtitle: "Portfolio munkáim",
+    subtitle: "Portfólió",
     foodbar: {
       title: "FoodBar",
       description: `Egyszerű recept webes alkalmazás. HTML, CSS, JavaScript és TheMealDB API használatával készült.`,
@@ -80,13 +80,13 @@ const Hun = {
     title: "Önéletrajz",
     subtitle: "Tapasztalataim",
     resumeBtn: {
-      education: "Tanulmányok",
+      education: "Tanulmány",
       hobby: "Hobbi",
       skill: "Készség",
       language: "Nyelv",
     },
     education: {
-      title: "Oktatás",
+      title: "Tanulmány",
       subtitle: "2011 - ",
       item1: {
         title: "Online Webfejlesztés",
@@ -130,7 +130,7 @@ const Hun = {
   contact: {
     title: "Kapcsolat",
     subtitle: "Vedd fel velem a kapcsolatot",
-    name: "Neved",
+    name: "Név",
     email: "Email",
     subject: "Tárgy",
     message: "Üzenet",

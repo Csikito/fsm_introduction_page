@@ -44,7 +44,7 @@ function App() {
 
   return (
     <div
-      className={`w-full h-auto px-4 dark:bg-bodyColor dark:text-lightText  bg-gray-100 text-black dark:font-normal font-semibold`}
+      className={`w-full h-auto dark:bg-bodyColor dark:text-lightText  bg-gray-100 text-black dark:font-normal font-semibold`}
     >
       <Navbar
         content={language.nav}
@@ -55,14 +55,12 @@ function App() {
         theme={theme}
       />
 
-      <div className="max-w-screen-xl mx-auto ">
-        <Home content={language.home} theme={theme} />
-        <About content={language.about} theme={theme} />
-        <Project content={language.projects} theme={theme} />
-        <Resume contents={language.resume} theme={theme} />
-        <Contact content={language.contact} theme={theme} />
-        <Footer />
-      </div>
+      <Home content={language.home} theme={theme} />
+      <About content={language.about} theme={theme} />
+      <Project content={language.projects} theme={theme} />
+      <Resume contents={language.resume} theme={theme} />
+      <Contact content={language.contact} theme={theme} />
+      <Footer />
     </div>
   );
 }

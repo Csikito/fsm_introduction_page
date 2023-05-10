@@ -12,7 +12,7 @@ function ResumeCard({ title, subTitle, des }) {
         </span>
       </div>
       <div
-        className="w-full bg-gradient-to-tr dark:bg-none dark:from-bg-black dark:to-bg-black  from-blue-300  dark:bg-opacity-25  dark:hover:bg-opacity-40 duration-300
+        className="w-full bg-gradient-to-tr dark:bg-gradient-to-tr dark:from-bodyColor dark:to-bg-black  from-blue-300 to-blue-100 dark:hover:bg-opacity-40 duration-300
       rounded-lg py-2 px-10 flex flex-col justify-center gap-10 dark:shadow-shadowOne dark:hover:shadow-blue-300/30 hover:shadow-lg"
       >
         <div>

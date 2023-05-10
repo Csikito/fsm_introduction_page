@@ -31,7 +31,7 @@ function Home({ content, theme }) {
   return (
     <section
       id="home"
-      className="w-full py-20 flex flex-colom mdl:px-6 border-b-[2px] border-secondBodyColor font-titleFont"
+      className="w-full max-w-screen-xl mx-auto px-4 py-36 flex flex-colom mdl:px-6 font-titleFont"
     >
       <div className="w-full lgl:w-1/2">
         <div className="flex flex-col gap-5">

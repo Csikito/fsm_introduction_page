@@ -18,7 +18,7 @@ function Skill({ content }) {
           </p>
           <h2 className="text-3xl md:text-4xl font-bold">{content.title}</h2>
         </div>
-        <div className="w-full mt-14 flex flex-col gap-8 mdl:gap-20 py-4 sml:py-10 px-2 sml:px-10 dark:bg-transparent bg-blue-100 rounded-[5px] ">
+        <div className="w-full mt-14 flex flex-col gap-8 mdl:gap-20 py-4 sml:py-10 px-2 sml:px-10  bg-gradient-to-tr from-blue-300 dark:from-transparent rounded-[5px] ">
           {/*********** HTML **************/}
           <div className="flex justify-center items-center relative">
             <p className="text-7xl text-designColor font-medium ">

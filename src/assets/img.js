@@ -1,6 +1,10 @@
 import logo from "./images/logo.png";
-
 import aboutImg from "./images/aboutImg.png";
+import foodLogo from "./images/projects/food-logo.png";
+import transLogo from "./images/projects/transport-logo.png";
+import flashLogo from "./images/projects/flash-logo.png";
+import gameLogo from "./images/projects/game-logo.png";
+import userLogo from "./images/projects/user-logo.png";
 import foodBar from "./images/projects/csikito-food-bar.PNG";
 import trans from "./images/projects/csikito-trans.PNG";
 import flashcard from "./images/projects/flashcard.PNG";
@@ -17,6 +21,11 @@ import technology from "./images/hobby/technology.png";
 export {
   logo,
   aboutImg,
+  foodLogo,
+  transLogo,
+  flashLogo,
+  gameLogo,
+  userLogo,
   foodBar,
   trans,
   flashcard,

@@ -1,4 +1,3 @@
-// "I'm a Full Stack Web Developer with a passion for building web applications. I have a passion for learning new technologies, and I love learning new technologies."
 import { foodBar } from "../assets/img";
 import { trans } from "../assets/img";
 import { flashcard } from "../assets/img";
@@ -131,7 +130,7 @@ const Eng = {
   contact: {
     title: "CONTACT",
     subtitle: "Contact With Me",
-    name: "Your name",
+    name: "Name",
     email: "Email",
     subject: "Subject",
     message: "Message",
