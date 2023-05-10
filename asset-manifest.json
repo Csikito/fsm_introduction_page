@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/fsm_introduction_page/static/css/main.4213b82f.css",
-    "main.js": "/fsm_introduction_page/static/js/main.7f6fccf1.js",
+    "main.css": "/fsm_introduction_page/static/css/main.3e59fedb.css",
+    "main.js": "/fsm_introduction_page/static/js/main.4455568a.js",
     "static/media/aboutImg.png": "/fsm_introduction_page/static/media/aboutImg.a6f62d0573c86f6437ba.png",
     "static/media/csikito-trans.PNG": "/fsm_introduction_page/static/media/csikito-trans.55e70cabf0b482e4c798.PNG",
     "static/media/basketball.png": "/fsm_introduction_page/static/media/basketball.14fd10f5c8723c2df6da.png",
@@ -13,14 +13,19 @@
     "static/media/CSR2.png": "/fsm_introduction_page/static/media/CSR2.904f43550453a0fe72ee.png",
     "static/media/CSR1.png": "/fsm_introduction_page/static/media/CSR1.0f2cef508130c0fed42f.png",
     "static/media/technology.png": "/fsm_introduction_page/static/media/technology.eb0a9258b62307750628.png",
+    "static/media/flash-logo.png": "/fsm_introduction_page/static/media/flash-logo.db397de1639e29022b92.png",
+    "static/media/food-logo.png": "/fsm_introduction_page/static/media/food-logo.3372b106ab5f0fee0ba0.png",
     "static/media/flashcard.PNG": "/fsm_introduction_page/static/media/flashcard.59065200be7615bbc309.PNG",
     "static/media/tic-tac-toe.PNG": "/fsm_introduction_page/static/media/tic-tac-toe.5b629a8455041eaeff89.PNG",
+    "static/media/user-logo.png": "/fsm_introduction_page/static/media/user-logo.62f0fc329f3b99d01395.png",
+    "static/media/transport-logo.png": "/fsm_introduction_page/static/media/transport-logo.7e76a37a4fc8129ec420.png",
+    "static/media/game-logo.png": "/fsm_introduction_page/static/media/game-logo.6bd1a9af39a889e56c9c.png",
     "index.html": "/fsm_introduction_page/index.html",
-    "main.4213b82f.css.map": "/fsm_introduction_page/static/css/main.4213b82f.css.map",
-    "main.7f6fccf1.js.map": "/fsm_introduction_page/static/js/main.7f6fccf1.js.map"
+    "main.3e59fedb.css.map": "/fsm_introduction_page/static/css/main.3e59fedb.css.map",
+    "main.4455568a.js.map": "/fsm_introduction_page/static/js/main.4455568a.js.map"
   },
   "entrypoints": [
-    "static/css/main.4213b82f.css",
-    "static/js/main.7f6fccf1.js"
+    "static/css/main.3e59fedb.css",
+    "static/js/main.4455568a.js"
   ]
 }
