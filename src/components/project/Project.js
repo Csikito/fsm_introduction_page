@@ -19,37 +19,37 @@ function Project({ content }) {
     e.preventDefault();
     setIsOpen(true);
 
-    let project =
-      e.target.innerHTML ||
-      e.target.alt ||
-      e.target.children[0].alt ||
-      e.target.children[0].innerHTML;
+    console.log();
 
-    if (project === "FoodBar") {
+    console.log(e.target.parentElement.dataset.id);
+    console.log(e.target.dataset.id);
+    let id = e.target.dataset.id || e.target.parentElement.dataset.id;
+
+    if (id === "1") {
       setData(content.foodbar);
       if (e.ctrlKey || e.button === 1) {
         window.open(content.foodbar.linkWeb, "_blank");
         setIsOpen(false);
       }
-    } else if (project === "FLASHCARD") {
-      setData(content.flashcard);
-      if (e.ctrlKey || e.button === 1) {
-        window.open(content.flashcard.linkWeb, "_blank");
-        setIsOpen(false);
-      }
-    } else if (project === "Trans") {
+    } else if (id === "2") {
       setData(content.trans);
       if (e.ctrlKey || e.button === 1) {
         window.open(content.trans.linkWeb, "_blank");
         setIsOpen(false);
       }
-    } else if (project === "TIC-TAC-TOE") {
+    } else if (id === "3") {
       setData(content.ticGame);
       if (e.ctrlKey || e.button === 1) {
         window.open(content.ticGame.linkWeb, "_blank");
         setIsOpen(false);
       }
-    } else if (project === "RANDOM USER") {
+    } else if (id === "4") {
+      setData(content.flashcard);
+      if (e.ctrlKey || e.button === 1) {
+        window.open(content.flashcard.linkWeb, "_blank");
+        setIsOpen(false);
+      }
+    } else if (id === "5") {
       setData(content.randomUser);
       if (e.ctrlKey || e.button === 1) {
         window.open(content.randomUser.linkWeb, "_blank");
@@ -72,27 +72,32 @@ function Project({ content }) {
             title={content.foodbar.title}
             src={foodLogo}
             handelModalView={handelModalView}
+            id={1}
           />
 
           <ProjectCard
             title={content.trans.title}
             src={transLogo}
             handelModalView={handelModalView}
+            id={2}
           />
           <ProjectCard
             title={content.ticGame.title}
             src={gameLogo}
             handelModalView={handelModalView}
+            id={3}
           />
           <ProjectCard
             title={content.flashcard.title}
             src={flashLogo}
             handelModalView={handelModalView}
+            id={4}
           />
           <ProjectCard
             title={content.randomUser.title}
             src={userLogo}
             handelModalView={handelModalView}
+            id={5}
           />
         </div>
       </div>
